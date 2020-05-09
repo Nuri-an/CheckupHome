@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
         integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-    <title> Check-up Home</title>
     <link rel="shortcut icon" href="../mobile/assets/icon.png" type="image/x-png" />
 </header>
 
@@ -21,7 +20,6 @@
         <br>
             <h5 style="margin-top: 50px"> Disponível apenas em plataformas android</h5>
             </div>
-
     <div id="instalacao" style="width: 100vw; height: auto; padding-bottom: 50px; background-color: #ffeebe;">
         <h3 class="text-muted container" style="padding-top: 100px; "> Instalação </h3>
         <h5 class="text-justify container font-weight-normal" style="margin-top: 100px">
@@ -52,6 +50,8 @@
             Agora, toque no arquivo baixado e proceda com a instalação normalmente, dando as permissões necessárias de acesso.
         </h5>
     </div>
+
+    
             
 </body>
 
