@@ -9,4 +9,11 @@ section{
 }
         
 footer{
+    width: 100vw;
+    float:left;
+    position:relative;
+    align-items:center;
+    text-align: center;
+    bottom:10px;
+    top:20px;
 }
