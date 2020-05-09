@@ -8,5 +8,5 @@ section{
 }
         
 footer{
-    float: bottom;
+    display: none;
 }
