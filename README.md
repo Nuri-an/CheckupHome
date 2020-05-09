@@ -14,7 +14,7 @@
         <h1 class="text-muted" style="text-align: center;"> Check-up Home</h1>
         <div style="align-items: center;">
         <img src="./assets/download.png" style="height: 300px; margin-top: 100px; margin-right: 150px;">
-        <a onclick="window.open('C:/Users/USUARIO/Downloads/bethehero.apk')" href="#instalacao" style="text-align: center; margin-top: 150px;" class="btn btn-outline-warning"> 
+        <a onclick="window.open('C:/Users/USUARIO/Downloads/bethehero.apk')" href="#instalacao" style="text-align: center; text-align: -webkit-center;" class="btn btn-outline-warning"> 
             Download for android
         </a>
         </div>
