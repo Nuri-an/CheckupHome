@@ -1,6 +1,3 @@
-<html>
-    <body>
-        include('index.php')
-</body>
-
-</html>
+<php>
+        require('index.php')
+<?php>
