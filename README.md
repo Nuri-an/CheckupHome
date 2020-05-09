@@ -1,4 +1,9 @@
 <html lang="pt-br">
+    <style>
+        header{
+        display:none;
+        }
+    </style>
 <header>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
