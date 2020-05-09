@@ -1,13 +1,13 @@
 <html lang="pt-br">
-<header>
+<head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
         integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
     <link rel="stylesheet" href="./style.css"
-    <link rel="shortcut icon" href="../mobile/assets/icon.png" type="image/x-png" />
-</header>
+    <link rel="shortcut icon" href="./assets/icon.png" type="image/x-png" />
+</head>
 
 <body style="background-color: #f5f5f5; overflow-x: hidden;">
     <div style="width: 100vw; height: 100vh; margin-top: 30px; align-items: center; text-align: center;">
