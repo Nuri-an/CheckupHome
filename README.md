@@ -12,8 +12,8 @@
 <body style="background-color: #f5f5f5; overflow-x: hidden;">
     <div style="width: 100vw; height: 100vh; margin-top: 30px; align-items: center; text-align: center;">
         <h1 class="text-muted" style="text-align: center;"> Check-up Home</h1>
-        <div style="align-items: center;">
-        <img src="./assets/download.png" style="height: 300px; margin-top: 100px; margin-right: 150px;">
+        <div style="align-items: center; margin-top: 90px;">
+        <img src="./assets/download.png" style="height: 300px; align-content: center; margin-right: 30px;">
         <a onclick="window.open('C:/Users/USUARIO/Downloads/bethehero.apk')" href="#instalacao" style="text-align: center; text-align: -webkit-center;" class="btn btn-outline-warning"> 
             Download for android
         </a>
