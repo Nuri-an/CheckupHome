@@ -14,7 +14,7 @@
         <h1 class="text-muted" style="text-align: center;"> Check-up Home</h1>
         <div style="align-items: center; margin-top: 90px;">
         <img src="./assets/download.png" style="height: 300px; align-content: center; margin-right: 30px;">
-        <a onclick="window.open('https://bit.ly/2zrHlsa')" href="#instalacao" style="text-align: center; text-align: -webkit-center;" class="btn btn-outline-warning"> 
+        <a onclick="window.open('https://drive.google.com/open?id=1Upz2S27kucWUEhtq7Cjn-RRawe30P_TN')" href="#instalacao" style="text-align: center; text-align: -webkit-center;" class="btn btn-outline-warning"> 
             Download for android
         </a>
         </div>
