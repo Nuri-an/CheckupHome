@@ -14,7 +14,7 @@
         <h1 class="text-muted" style="text-align: center;"> Check-up Home</h1>
         <div style="align-items: center; margin-top: 90px;">
         <img src="./assets/download.png" style="height: 300px; align-content: center; margin-right: 30px;">
-        <a onclick="window.open('https://drive.google.com/u/0/uc?export=download&confirm=jVy7&id=1Upz2S27kucWUEhtq7Cjn-RRawe30P_TN')" href="#instalacao" style="text-align: center; text-align: -webkit-center;" class="btn btn-outline-warning"> 
+        <a onclick="window.open('https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40nuri-an/bethehero-ef900979f8e74c4fbe31d86afa5b4e9a-signed.apk')" href="#instalacao" style="text-align: center; text-align: -webkit-center;" class="btn btn-outline-warning"> 
             Download for android
         </a>
         </div>
